@@ -1,0 +1,13 @@
+--- a/daemon/Makefile   2017-01-23 05:44:19.211481780 -0800
++++ b/daemon/Makefile   2017-01-23 05:47:34.805752423 -0800
+@@ -8,8 +8,8 @@
+ # targets run 'make SOFTFLOAT=1 SYSROOT=/path/to/sysroot', see
+ # streamline/gator/README.md for more details
+
+-CC = $(CROSS_COMPILE)gcc
+-CXX = $(CROSS_COMPILE)g++
++#CC = $(CROSS_COMPILE)gcc
++#CXX = $(CROSS_COMPILE)g++
+
+ ifeq ($(SOFTFLOAT),1)
+        CPPFLAGS += -marm -mthumb-interwork -march=armv4t -mfloat-abi=soft
