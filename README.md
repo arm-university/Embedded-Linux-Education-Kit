@@ -3,6 +3,8 @@
 
 Welcome to our Embedded Linux Education Kit!
 
+#### Click this link to download the material - https://github.com/arm-university/Embedded-Linux-Education-Kit/archive/refs/heads/main.zip
+
 Our flagship offering to universities worldwide is the Arm University Program Education Kit series.
 
 These self-contained educational materials offered exclusively and at no cost to academics and teaching staff worldwide. They’re designed to support your day-to-day teaching on core electronic engineering and computer science subjects. You have the freedom to choose which modules to teach – you can use all the modules in the Education Kit or only those that are most appropriate to your teaching outcomes.
