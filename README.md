@@ -3,7 +3,7 @@
 
 Welcome to our Embedded Linux Education Kit!
 
-#### Click the link to download - https://github.com/arm-university/Embedded-Linux-Education-Kit/archive/refs/heads/main.zip
+#### [Click](https://github.com/arm-university/Embedded-Linux-Education-Kit/archive/refs/heads/main.zip) to download the EdKit
 
 Our flagship offering to universities worldwide is the Arm University Program Education Kit series.
 
