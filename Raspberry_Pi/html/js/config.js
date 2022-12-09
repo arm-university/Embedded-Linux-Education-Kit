@@ -28,7 +28,7 @@ var index =
       {
         "column": "modules",
         "name": "Lecture Presentation",
-        "link": "contents/Module_1/Lecture Presentation_01.pptx"
+        "link": "contents/Module 01_Introduction to Linux and Embedded Systems/Lecture Presentation_01.pptx"
       }
     ],
     [  
@@ -39,12 +39,12 @@ var index =
       {
         "column": "modules",
         "name": "Lecture Presentation",
-        "link": "contents/Module_2/Lecture Presentation_02.pptx"
+        "link": "contents/Module 02_Linux-based Embedded System Component Stack/Lecture Presentation_02.pptx"
       },
       {
         "column": "exercises",
         "name": "Lab exercise",
-        "link": "contents/Module_2/Lab Manual.docx"
+        "link": "contents/Module 02_Linux-based Embedded System Component Stack/Lab Manual.docx"
       }
     ],
     [   
@@ -55,7 +55,7 @@ var index =
       {
         "column": "modules",
         "name": "Lecture Presentation",
-        "link": "contents/Module_3/Lecture Presentation_03.pptx"
+        "link": "contents/Module 03_Anatomy of a Linux-based System/Lecture Presentation_03.pptx"
       }
     ],
     [   
@@ -66,7 +66,7 @@ var index =
       {
         "column": "modules",
         "name": "Lecture Presentation",
-        "link": "contents/Module_4/Lecture Presentation_04.pptx"
+        "link": "contents/Module 04_Configuration and Build Process/Lecture Presentation_04.pptx"
       }
     ],
     [   
@@ -77,17 +77,17 @@ var index =
       {
         "column": "modules",
         "name": "Lecture Presentation",
-        "link": "contents/Module_5/Lecture Presentation_05.pptx"
+        "link": "contents/Module 05_Linux Kernel Modules/Lecture Presentation_05.pptx"
       },
       {
         "column": "exercises",
         "name": "Lab exercise",
-        "link": "contents/Module_5/Lab Manual.docx"
+        "link": "contents/Module 05_Linux Kernel Modules/Lab Manual.docx"
       },
 	  {
         "column": "exercises",
         "name": "Lab Files",
-        "link": "contents/Module_5/Lab Files.zip"
+        "link": "contents/Module 05_Linux Kernel Modules/Lab Files"
       }
     ],
     [ 
@@ -98,17 +98,17 @@ var index =
       {
         "column": "modules",
         "name": "Lecture Presentation",
-        "link": "contents/Module_6/Lecture Presentation_06.pptx"
+        "link": "contents/Module 06_Communication Between Kernel and User Space/Lecture Presentation_06.pptx"
       },
       {
         "column": "exercises",
         "name": "Lab exercise",
-        "link": "contents/Module_6/Lab Manual.docx"
+        "link": "contents/Module 06_Communication Between Kernel and User Space/Lab Manual.docx"
       },
       {
         "column": "exercises",
         "name": "Lab Files",
-        "link": "contents/Module_6/Lab Files.zip"
+        "link": "contents/Module 06_Communication Between Kernel and User Space/Lab Files"
       }
     ],
     [   
@@ -120,17 +120,17 @@ var index =
       {
         "column": "modules",
         "name": "Lecture Presentation",
-        "link": "contents/Module_7/Lecture Presentation_07.pptx"
+        "link": "contents/Module 07_Application Demo_Building a Ranging Sensor Kernel Module/Lecture Presentation_07.pptx"
       },
       {
         "column": "exercises",
         "name": "Lab exercise",
-        "link": "contents/Module_7/Lab Manual.docx"
+        "link": "contents/Module 07_Application Demo_Building a Ranging Sensor Kernel Module/Lab Manual.docx"
       },
       {
         "column": "exercises",
         "name": "Lab Files",
-        "link": "contents/Module_7/Lab Files.zip"
+        "link": "contents/Module 07_Application Demo_Building a Ranging Sensor Kernel Module/Lab Files"
       }
 	  
     ],
@@ -142,17 +142,17 @@ var index =
       {
         "column": "exercises",
         "name": "Lab exercise 1",
-        "link": "contents/Module_8/Lab Manual 1.docx"
+        "link": "contents/Module 08_System Debugging and Profiling/Lab Manual 1.docx"
       }	,
       {
         "column": "exercises",
         "name": "Lab exercise 2",
-        "link": "contents/Module_8/Lab Manual 2.docx"
+        "link": "contents/Module 08_System Debugging and Profiling/Lab Manual 2.docx"
       },
       {
         "column": "exercises",
         "name": "Lab Files",
-        "link": "contents/Module_8/Lab Files.zip"
+        "link": "contents/Module 08_System Debugging and Profiling/Lab Files"
       }  
     ]
 	
