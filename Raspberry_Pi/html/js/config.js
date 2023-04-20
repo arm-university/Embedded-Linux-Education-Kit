@@ -28,7 +28,7 @@ var index =
       {
         "column": "modules",
         "name": "Lecture Presentation",
-        "link": "contents/Module 01_Introduction to Linux and Embedded Systems/Lecture Presentation_01.pptx"
+        "link": "contents/Module01_IntroToLinuxAndEmbeddedSystems/Lecture01_IntroToLinuxAndEmbeddedSystems.pptx"
       }
     ],
     [  
@@ -39,12 +39,12 @@ var index =
       {
         "column": "modules",
         "name": "Lecture Presentation",
-        "link": "contents/Module 02_Linux-based Embedded System Component Stack/Lecture Presentation_02.pptx"
+        "link": "contents/Module02_LinuxBasedEmbeddedSystemComponentStack/Lecture02_LinuxBasedEmbeddedSystemComponentStack.pptx"
       },
       {
         "column": "exercises",
         "name": "Lab exercise",
-        "link": "contents/Module 02_Linux-based Embedded System Component Stack/Lab Manual.docx"
+        "link": "contents/Module02_LinuxBasedEmbeddedSystemComponentStack/Lab00_GettingStarted/Lab00_GettingStarted.doc"
       }
     ],
     [   
@@ -55,7 +55,7 @@ var index =
       {
         "column": "modules",
         "name": "Lecture Presentation",
-        "link": "contents/Module 03_Anatomy of a Linux-based System/Lecture Presentation_03.pptx"
+        "link": "contents/Module03_AnatomyOfLinuxBasedSystem/Lecture03_AnatomyOfLinuxBasedSystem.pptx"
       }
     ],
     [   
@@ -66,7 +66,7 @@ var index =
       {
         "column": "modules",
         "name": "Lecture Presentation",
-        "link": "contents/Module 04_Configuration and Build Process/Lecture Presentation_04.pptx"
+        "link": "contents/Module04_ConfigurationAndBuildProcess/Lecture04_ConfigurationAndBuildProcess.pptx"
       }
     ],
     [   
@@ -77,17 +77,17 @@ var index =
       {
         "column": "modules",
         "name": "Lecture Presentation",
-        "link": "contents/Module 05_Linux Kernel Modules/Lecture Presentation_05.pptx"
+        "link": "contents/Module05_LinuxKernelModules/Lecture05_LinuxKernelModules.pptx"
       },
       {
         "column": "exercises",
         "name": "Lab exercise",
-        "link": "contents/Module 05_Linux Kernel Modules/Lab Manual.docx"
+        "link": "contents/Module05_LinuxKernelModules/Lab01_LinuxKernelModulesUnderYocto/Lab01_LinuxKernelModulesUnderYocto.docx"
       },
 	  {
         "column": "exercises",
         "name": "Lab Files",
-        "link": "contents/Module 05_Linux Kernel Modules/Lab Files"
+        "link": "contents/Module05_LinuxKernelModules/Lab01_LinuxKernelModulesUnderYocto/hello-mod/"
       }
     ],
     [ 
@@ -98,17 +98,17 @@ var index =
       {
         "column": "modules",
         "name": "Lecture Presentation",
-        "link": "contents/Module 06_Communication Between Kernel and User Space/Lecture Presentation_06.pptx"
+        "link": "contents/Module06_CommunicationBetweenKernelAndUserSpace/Lecture06_CommunicationBetweenKernelAndUserSpace.pptx"
       },
       {
         "column": "exercises",
         "name": "Lab exercise",
-        "link": "contents/Module 06_Communication Between Kernel and User Space/Lab Manual.docx"
+        "link": "contents/Module06_CommunicationBetweenKernelAndUserSpace/Lab02_HandlingGPIOusingLinuxKernelModules/Lab02_HandlingGPIOusingLinuxKernelModules.docx"
       },
       {
         "column": "exercises",
         "name": "Lab Files",
-        "link": "contents/Module 06_Communication Between Kernel and User Space/Lab Files"
+        "link": "contents/Module06_CommunicationBetweenKernelAndUserSpace/Lab02_HandlingGPIOusingLinuxKernelModules/gpio-mod/"
       }
     ],
     [   
@@ -120,17 +120,17 @@ var index =
       {
         "column": "modules",
         "name": "Lecture Presentation",
-        "link": "contents/Module 07_Application Demo_Building a Ranging Sensor Kernel Module/Lecture Presentation_07.pptx"
+        "link": "contents/Module07_BuildingARangingSensorKernelModule/Lecture07_BuildingARangingSensorKernelModule.pptx"
       },
       {
         "column": "exercises",
         "name": "Lab exercise",
-        "link": "contents/Module 07_Application Demo_Building a Ranging Sensor Kernel Module/Lab Manual.docx"
+        "link": "contents/Module07_BuildingARangingSensorKernelModule/Lab03_BuildingARangingSensorKernelModule/Lab03_HCSR04RangingSensor.docx"
       },
       {
         "column": "exercises",
         "name": "Lab Files",
-        "link": "contents/Module 07_Application Demo_Building a Ranging Sensor Kernel Module/Lab Files"
+        "link": "contents/Module07_BuildingARangingSensorKernelModule/Lab03_BuildingARangingSensorKernelModule/hcsr04-mod/"
       }
 	  
     ],
@@ -142,18 +142,18 @@ var index =
       {
         "column": "exercises",
         "name": "Lab exercise 1",
-        "link": "contents/Module 08_System Debugging and Profiling/Lab Manual 1.docx"
+        "link": "contents/Module08_SystemDebuggingAndProfiling/Lab04_IntroToCodeDevelopmentUsingYocto/Lab04_IntroToCodeDevelopmentUsingYocto.docx"
       }	,
       {
         "column": "exercises",
-        "name": "Lab exercise 2",
-        "link": "contents/Module 08_System Debugging and Profiling/Lab Manual 2.docx"
-      },
+        "name": "Lab Files",
+        "link": "contents/Module08_SystemDebuggingAndProfiling/Lab04_IntroToCodeDevelopmentUsingYocto/gator/"
+      }, 
       {
         "column": "exercises",
-        "name": "Lab Files",
-        "link": "contents/Module 08_System Debugging and Profiling/Lab Files"
-      }  
+        "name": "Lab exercise 2",
+        "link": "contents/Module08_SystemDebuggingAndProfiling/Lab05_IntroToLinuxKernelandApplicationProfiling/Lab05_IntroToLinuxKernelandApplicationProfiling.docx"
+      }, 
     ]
 	
   ]
