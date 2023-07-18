@@ -20,7 +20,7 @@
         },
         {
             "title": "Linux and Embedded Systems: An Introduction, Module 1",
-            "subject": ["Linux", "Operating Systems", "Embedded", "Yocto"],
+            "subject": ["linux", "operating systems", "embedded", "yocto"],
             "type": "Lecture",
             "format": "ppt",
             "creator": "Mark Allen",
