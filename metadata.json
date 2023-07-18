@@ -2,7 +2,7 @@
     "metadata": [
         {
             "title": "Embedded Linux Education Kit",
-            "subject": ["Linux", "Operating Systems", "Embedded", "Yocto"],
+            "subject": ["linux", "operating systems", "embedded", "yocto"],
             "type": "EdKit",
             "format": ["ppt", "doc", "zip code files"],
             "creator": "Mark Allen",
