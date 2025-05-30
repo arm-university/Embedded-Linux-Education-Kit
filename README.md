@@ -1,9 +1,12 @@
-
 # Embedded-Linux-Education-Kit
 
-Welcome to our Embedded Linux Education Kit!
+## Important
+### To download the latest stable version, please click below instead of using the "Download ZIP" button.
+### [Click here to download](https://github.com/arm-university/Embedded-Linux-Education-Kit/releases/download/v2.0.0/Embedded-Linux-Education-Kit.zip)
 
-### [Download the EdKit here](https://github.com/arm-university/Embedded-Linux-Education-Kit/archive/refs/heads/main.zip) 
+## About
+
+Welcome to our Embedded Linux Education Kit!
 
 Our flagship offering to universities worldwide is the Arm University Program Education Kit series.
 
